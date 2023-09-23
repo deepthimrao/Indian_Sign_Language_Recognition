@@ -17,3 +17,5 @@ and numbers with the help of various ML algorithms.
 The data consists of 1200 images per letter of the alphabet of size 128𝑥128. It consists of cropped 
 images of hands showing the sign for each letter. This data was captured ensuring constant 
 illumination in the background
+
+![alt text](https://github.com/deepthimrao/Indian_Sign_Language_Recognition/blob/main/Data_source_images.PNG?raw=true)
